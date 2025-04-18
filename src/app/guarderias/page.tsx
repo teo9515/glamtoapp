@@ -157,7 +157,7 @@ export default function GuarderiasPage() {
 
       {/* Terminadas */}
       <section>
-        <h2 className="text-xl font-semibold mt-6 mb-2">Terminadas</h2>
+        <h2 className="text-xl font-semibold mt-6 mb-2">Terminadas.</h2>
         {guarderiasTerminadas.length === 0 ? (
           <p className="text-gray-600">No hay guarderías terminadas.</p>
         ) : (
